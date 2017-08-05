@@ -1,0 +1,40 @@
+.jumbotron {
+	background-color: #4aaaa5;
+	color: white;
+	text-align: center;
+}
+
+.navbar-default {
+	background-color: #4aaaa5;
+}
+
+.navbar-default
+.navbar-brand {
+	color: white;
+}
+
+.nav
+.navbar-vav{
+	color: white;
+}
+
+.panel-heading {
+	text-align: center;
+}
+
+p {
+	font-size: 18px;
+}
+
+.center {
+	text-align: center;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: #4aaaa5;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
