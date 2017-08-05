@@ -30,6 +30,19 @@ p {
 	text-align: center;
 }
 
+.foot-center {
+	text-align: center;
+	margin-left: -16px;
+	background-color: #4aaaa5;
+	position: relative;
+	color: white;
+	padding-left: 455px;
+}
+
+.container-fluid {
+	padding-right: 0px;
+}
+
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     color: white;
     background-color: #4aaaa5;
