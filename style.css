@@ -111,4 +111,55 @@ h2 {
 	border-color: #4aaaa5;
 }
 
+.plholder{
+	z-index: 1;
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	width: 180px;
+	position: relative;
+	text-align: center;
+	color: white;
+	padding: 5px;
+	bottom: 58px;
+	margin-bottom: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.plholder2 {
+	z-index: 1;
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	width: 180px;
+	position: relative;
+	text-align: center;
+	color: white;
+	padding: 5px;
+	bottom: 61px;
+	margin-bottom: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.plholder3 {
+	z-index: 1;
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	width: 180px;
+	position: relative;
+	text-align: center;
+	color: white;
+	padding: 5px;
+	bottom: 45px;
+	margin-bottom: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
+.col-md-8 {
+    width: 66.66666667%;
+    background-color: #fff;
+}
+
+
+
 
